@@ -883,7 +883,7 @@ img {
 .bird-box {
   position: relative;
   height: 600px;
-  background-image: url(../images/bird-bg.jpg);
+  background-image: url(/Parallax-Practice/images/bird-bg.jpg);
   background-size: auto 600px;
   background-position: top center;
   background-attachment: fixed;
@@ -903,7 +903,7 @@ img {
 .fore-bird {
   width: 960px;
   height: 733px;
-  background-image: url(/images/fore-bird.png);
+  background-image: url(../images/fore-bird.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   position: absolute;
